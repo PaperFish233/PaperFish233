@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.fish233.online" alt="Blog" title="Blog" target="_blank">
+  <a href="https://blog.fish233.online" alt="Blog" title="Blog">
     <img src="https://img.shields.io/badge/Blog-Jump-blue?style=for-the-badge&logo=hexo&logoColor=blue"/></a>
-  <a href="https://docs.fish233.online" alt="Docs" title="Docs" target="_blank">
+  <a href="https://docs.fish233.online" alt="Docs" title="Docs">
     <img src="https://img.shields.io/badge/Docs-Jump-green?style=for-the-badge&logo=googledocs&logoColor=green"/></a>
 </p>
 
