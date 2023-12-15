@@ -9,5 +9,4 @@
     <img src="https://img.shields.io/badge/Docs-Jump-green?style=for-the-badge&logo=googledocs&logoColor=green"/></a>
 </p>
 
-## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=PaperFish233&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
